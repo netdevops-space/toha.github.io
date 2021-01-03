@@ -9,7 +9,4 @@ description: Personal blog of Emil Garipov.
 customMenus:
 - name: Замечательные люди
   url: https://toha-guides.netlify.app/posts/
-- name: Подкасты
-  url: https://toha-guides.netlify.app/posts/
-- name: Проект по автоматизации
-  url: https://toha-guides.netlify.app/posts/
+
