@@ -1,6 +1,6 @@
 # section information
 section:
-  name: আমার-সম্পর্কে
+  name: About
   id: about
   enable: true
   weight: 1
@@ -8,44 +8,44 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Network Automation Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: NetDevOps Space.
+  url: "https://www.netdevops.space"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+#resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'আমি X বছর অভিজ্ঞতা সম্পন্ন একজন দক্ষ সফটওয়্যার ইঞ্জিনিয়ার । আমি Go ভাষা ব্যবহার  করে [Kubernetes](https://kubernetes.io/) এর জন্য ওপেন সোর্স টুল তৈরি করি । মাঝে মাঝে আমি থিম বানানোর মত মজার প্রোজেক্ট নিয়ে কাজ করি ।'
+summary: 'Я увлеченный инженер по автоматизации сети и люблю работать над интересными проектами с использованием различных инструментов автоматизации. Я создал практическую лабораторию Nornir для [Cisco Code Exchange](https://developer.cisco.com/codeexchange/github/repo/emilgaripov/nornir-hands-on-lab), используя Python и фреймворк Nornir. Мои лаборатории помогают людям попробовать свои силы в сетевой автоматизации.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "egaripov@netdevops.space"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/emilgaripov"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/garipov/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/gissarsky"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/automate_net"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

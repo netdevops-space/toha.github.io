@@ -8,44 +8,44 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Network Automation Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: NetDevOps Space.
+  url: "https://www.netdevops.space"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+#resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a passionate network automation engineer and love work on interesting projects using various automation tools. I built Nornir hands-on lab for [Cisco Code Exchange](https://developer.cisco.com/codeexchange/github/repo/emilgaripov/nornir-hands-on-lab) using Python and Nornir Framework. My labs help people to try their workloads in network automation.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "egaripov@netdevops.space"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/emilgaripov"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/garipov/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/gissarsky"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/automate_net"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

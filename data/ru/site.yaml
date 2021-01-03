@@ -2,11 +2,14 @@
 copyright: © 2020 Copyright.
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Персональный блог Эмиля Гарипова.
+description: Personal blog of Emil Garipov.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Docs
+- name: Замечательные люди
   url: https://toha-guides.netlify.app/posts/
-
+- name: Подкасты
+  url: https://toha-guides.netlify.app/posts/
+- name: Проект по автоматизации
+  url: https://toha-guides.netlify.app/posts/

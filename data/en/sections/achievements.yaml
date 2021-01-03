@@ -10,15 +10,13 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+- title: Cisco Champion 2020
+  image: /images/sections/achievements/Cisco_Champ_20202.png
+  summary: Cisco Champion 2020.
+- title: Devnet Associate
+  image: /images/sections/achievements/Cisco_DevNetAs.png
+  summary: Cisco Certified DevNet Associate.
+- title: DevNet Class of 2020
+  image: /images/sections/achievements/Classof2020.png
+  summary: Holders of the DevNet Class of 2020 badge are recognized as early adopters of automation technologies and are key influencers in the DevNet community.
+

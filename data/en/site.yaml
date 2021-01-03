@@ -7,5 +7,9 @@ description: Personal blog of Emil Garipov.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Docs
+- name: Awesome Folks
+  url: https://toha-guides.netlify.app/posts/
+- name: Podcasts
+  url: https://toha-guides.netlify.app/posts/
+- name: Automation project
   url: https://toha-guides.netlify.app/posts/

@@ -25,7 +25,7 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 6
-    ordered: false
+    ordered: true
 
 # Enable Google Analytics
 googleAnalytics: UA-122321624-2
