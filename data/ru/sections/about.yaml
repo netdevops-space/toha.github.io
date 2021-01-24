@@ -18,7 +18,7 @@ company:
 #resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Я увлеченный инженер по автоматизации сети и люблю работать над интересными проектами с использованием различных инструментов автоматизации. Я создал практическую лабораторию Nornir для [Cisco Code Exchange](https://developer.cisco.com/codeexchange/github/repo/emilgaripov/nornir-hands-on-lab), используя Python и фреймворк Nornir. Мои лаборатории помогают людям попробовать свои силы в сетевой автоматизации.'
+summary: 'Я увлеченный инженер по автоматизации компьютерных сетей. Люблю работать над интересными проектами с использованием различных инструментов автоматизации.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
