@@ -8,6 +8,10 @@ menu:
     name: Awesome Folks
     identifier: awesome
     weight: 10
+author:
+  name: 
+  image: /images/author/jessica.png
+math: true
 ---
 
 You have probably come across the awesome list, where various interesting projects and links to it are published.  It should be noted that all these projects are done by people who contribute a lot to their development.
