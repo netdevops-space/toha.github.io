@@ -37,7 +37,7 @@ menu:
     - [Сайт Наташи](https://natenka.github.io/pyneng/)
     - [Youtube](https://www.youtube.com/channel/UCbp_f4rb5OR5hSUJW3F2FRg)
 
-- **Игорь Коротченков** - [UC Tech Lead at Alfa-Leasin](https://www.linkedin.com/in/igor-korotchenkov/)
+- **Игорь Коротченков** - [UC Tech Lead at Alfa-Leasing](https://www.linkedin.com/in/igor-korotchenkov/)
   - **Проекты**:
     - [NextBox UI Plugin](https://github.com/iDebugAll/nextbox-ui-plugin)
 

@@ -8,5 +8,5 @@ description: Personal blog of Emil Garipov.
 # they will be separated by a divider from the main menus.
 customMenus:
 - name: Замечательные люди
-  url: https://toha-guides.netlify.app/posts/
+  url: https://netdevops.space/ru/posts/awesome/
 

@@ -8,10 +8,6 @@ menu:
     name: Awesome Folks
     identifier: awesome
     weight: 10
-author:
-  name: 
-  image: /images/author/jessica.png
-math: true
 ---
 
 You have probably come across the awesome list, where various interesting projects and links to it are published.  It should be noted that all these projects are done by people who contribute a lot to their development.
@@ -41,7 +37,7 @@ If you have a candidate you'd like to suggest, or if you yourself would like to 
     - [Natasha's website](https://natenka.github.io/pyneng/)
     - [Youtube](https://www.youtube.com/channel/UCbp_f4rb5OR5hSUJW3F2FRg)
 
-- **Igor Korotchenkov** - [UC Tech Lead at Alfa-Leasin](https://www.linkedin.com/in/igor-korotchenkov/)
+- **Igor Korotchenkov** - [UC Tech Lead at Alfa-Leasing](https://www.linkedin.com/in/igor-korotchenkov/)
   - **Projects**:
     - [NextBox UI Plugin](https://github.com/iDebugAll/nextbox-ui-plugin)
 
