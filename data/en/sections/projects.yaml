@@ -34,7 +34,7 @@ projects:
   logo: /images/sections/projects/RED_EYES.png
   role: Author
   timeline: "April 2015 - December 2015"
-  repo: hhttps://github.com/emilgaripov/ccie_labs
+  repo: https://github.com/emilgaripov/ccie_labs
   #url: ""
   summary: An Open Source Project for Everyone.
   tags: ["professional", "ccie_labs","hobby"]

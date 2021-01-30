@@ -18,18 +18,23 @@ skills:
 
 - name: Python Development
   icon: "/images/sections/skills/python-logo.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Using as the main ptogramming language for development."
   url: "https://www.python.org/"
 
 - name: Nornir Framework
   icon: "/images/sections/skills/nornir_logo.png"
-  summary: "Work with Nornir network automation framework"
+  summary: "Work with Nornir framework"
   url: "https://nornir.readthedocs.io/en/latest/"
 
 - name: Docker
   icon: "/images/sections/skills/docker.svg"
   summary: "Write the programs as dockerized container."
   url: "https://www.docker.com/"
+
+- name: Netbox
+  icon: "/images/sections/skills/netbox.png"
+  summary: "Using Netbox as a Source of Truth"
+  url: "https://netbox.readthedocs.io/en/stable/"
 
 #- name: Prometheus
 #  icon: "/images/sections/skills/prometheus.png"

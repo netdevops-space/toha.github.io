@@ -34,7 +34,7 @@ projects:
   logo: /images/sections/projects/RED_EYES.png
   role: Автор
   timeline: "Апрель 2015 - Декабрь 2015"
-  repo: hhttps://github.com/emilgaripov/ccie_labs
+  repo: https://github.com/emilgaripov/ccie_labs
   #url: ""
   summary: Проект CCIE за год для всех.
   tags: ["professional", "ccie_labs","hobby"]

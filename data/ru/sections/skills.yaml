@@ -18,18 +18,23 @@ skills:
 
 - name: Python Development
   icon: "/images/sections/skills/python-logo.png"
-  summary: "Использование в качестве основного языка для профессионального развития. Возможность написания масштабируемой, тестируемой и поддерживаемой программы."
+  summary: "Использую в качестве основного языка программирования для разработки."
   url: "https://www.python.org/"
 
 - name: Nornir Framework
   icon: "/images/sections/skills/nornir_logo.png"
-  summary: "Работа с системой автоматизации сети Nornir"
+  summary: "Работаю с фреймворком Nornir"
   url: "https://nornir.readthedocs.io/en/latest/"
 
 - name: Docker
   icon: "/images/sections/skills/docker.svg"
-  summary: "Пишу программы в виде докеризованного контейнера"
+  summary: "Пишу приложения в докере"
   url: "https://www.docker.com/"
+
+- name: Netbox
+  icon: "/images/sections/skills/netbox.png"
+  summary: "Использую Netbox в качестве Source of Truth"
+  url: "https://netbox.readthedocs.io/en/stable/"
 
 #- name: Prometheus
 #  icon: "/images/sections/skills/prometheus.png"
@@ -38,13 +43,10 @@ skills:
 
 - name: Linux
   icon: "/images/sections/skills/linux.png"
-  summary: "Использование в качестве основной операционной системы."
+  summary: "Использую в качестве основной операционной системы."
 
 - name: Git
   icon: "/images/sections/skills/git.png"
-  summary: "Опыт работы с git-ориентированными разработками. В основном, используй Github."
+  summary: "Работаю с git-ориентированными разработками. В основном, используй Github."
   url: "https://git-scm.com/"
 
-#- name: C++
-#  icon: "/images/sections/skills/c++.png"
-#  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."

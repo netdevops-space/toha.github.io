@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Network Automation Engineer
+designation: Network automation enthusiast, trainer, pythonist.
 # your company information
-company:
-  name: NetDevOps Space.
-  url: "https://www.netdevops.space"
+#company:
+#  name: NetDevOps Space.
+#  url: "https://www.netdevops.space"
 
 # your resume. this file path should be relative to you "static" directory
 #resume: "files/resume.pdf"
