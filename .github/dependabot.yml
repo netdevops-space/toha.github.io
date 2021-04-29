@@ -1,21 +1,7 @@
-# Update dependencies
-
 version: 2
 updates:
-# Update the git submodules
-- package-ecosystem: "gitsubmodule"
+- package-ecosystem: bundler
   directory: "/"
   schedule:
-    interval: "daily"
-  labels:
-  - "dependencies"
-  - "automerge"
-
-# Update the Github Action  versions
-- package-ecosystem: "github-actions"
-  directory: "/"
-  schedule:
-    interval: "daily"
-  labels:
-  - "dependencies"
-  - "automerge"
+    interval: daily
+  open-pull-requests-limit: 10
